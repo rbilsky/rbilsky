@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rbilsky
 - 👀 I’m interested in being better at what I do, more React, learning Typescript, learning Python and dataish stuff.
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on anything interesting
+- 💞️ I’m looking to collaborate on anything interesting. I am curious about VTT modules.
 - 📫 How to reach me? [Linked in](https://www.linkedin.com/in/rebecca-bilsky/) I guess?
 
 <!---
